@@ -16,9 +16,6 @@ Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 ![H2 Database](https://img.shields.io/badge/Database-H2-blue)
 ![Insomnia](https://img.shields.io/badge/Insomnia-Tool-purple)
-![Insomnia Collection](https://img.shields.io/badge/Insomnia-Collection_Available-blueviolet)
-![Insomnia Testing](https://img.shields.io/badge/Insomnia-Testing_in_Progress-ff69b4)
-![Insomnia Environment](https://img.shields.io/badge/Insomnia-Environment_Setup-9cf)
 
 | Camadas    | Objetivo                                                              |
 | ---------- | --------------------------------------------------------------------- | 
@@ -129,6 +126,10 @@ Analista de sistemas há 27 anos, Sr em Tecnologias voltadas para MAINFRAME.
 ![H2 Database](https://img.shields.io/badge/Database-H2-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+### Testar API
+
+![Insomnia](https://img.shields.io/badge/Insomnia-Tool-purple)
 
 ### Sistema operacional
 
