@@ -85,12 +85,6 @@ Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro
 | test     | Manutenção nos testes do projeto                            |
 | cleanup  | Remoção de códigos comentados, limpeza do código fonte      |
 
-<p align="center">
-<img src="./assets/image/collection-framework-methods.png" alt="List interface hierarchy Java"><br>
-<a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html">Method Sumary Collection Interface</a>
-</p>
-
-
 # Ulisses Moraes Dos Reis Souza
 
 Analista de sistemas há 27 anos, Sr em Tecnologias voltadas para MAINFRAME.
