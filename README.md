@@ -15,6 +15,12 @@ Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 ![H2 Database](https://img.shields.io/badge/Database-H2-blue)
+![H2 in Memory](https://img.shields.io/badge/H2-In--Memory-lightgrey)
+![H2 Console Enabled](https://img.shields.io/badge/H2-Console_Enabled-brightgreen)
+![H2 Database](https://img.shields.io/badge/Database-H2-blue)
+![H2 in Memory](https://img.shields.io/badge/H2-In--Memory-lightgrey)
+![H2 Console Enabled](https://img.shields.io/badge/H2-Console_Enabled-brightgreen)
+![H2 Version](https://img.shields.io/badge/H2-v1.4.200-orange)
 
 Camadas Criadas:
 Entity - Criação de entidade JPA para representar uma tabela em banco de dados.
