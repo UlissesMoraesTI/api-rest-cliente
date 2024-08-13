@@ -6,7 +6,6 @@ Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro
 | Tecnologias                  |
 | -----------------------------| 
 | JAVA JDK 17                  |
-| Correção de bugs do projeto  | 
 | Maven                        |
 | IDEA Intellij                |
 | JPA (Java Persistence API)   |
