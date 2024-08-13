@@ -1,6 +1,27 @@
 # api-rest-cliente
 API REST Cliente
 
+Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro de Cliente.
+Tecnologias:
+JAVA JDK 17
+Maven
+IDEA Intellij
+JPA (Java Persistence API)
+H2 Banco de Dados em memória.
+
+Camadas Criadas:
+Entity - Criação de entidade JPA para representar uma tabela em banco de dados.
+Repository - JpaRepository para operações CRUD.
+Controller - Controlador REST para expor os endpoints da API.
+Service - Regras de Negócio.
+
+Funcionalidades:
+private Cliente salvar(@RequestBody Cliente cliente){ - Salvar Cliente
+public List<Cliente> listaCliente() { - Listar Cliente
+public Cliente buscarClientePorId(@PathVariable("id") Long id){ - Consultar Cliente por ID.
+public void removerCliente(@PathVariable("id") Long id) { - Delete Cliente
+public void atualizarCliente(@PathVariable("id") Long id, @RequestBody Cliente cliente) { - Atualizar Cliente.
+
 <h1>   
      <img align="center" width="40px">
     <span> Java BackEnd Developer</span>
