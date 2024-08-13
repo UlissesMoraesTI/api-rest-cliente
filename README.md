@@ -16,11 +16,13 @@ Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 ![H2 Database](https://img.shields.io/badge/Database-H2-blue)
 
-Camadas Criadas:
-Entity - Criação de entidade JPA para representar uma tabela em banco de dados.
-Repository - JpaRepository para operações CRUD.
-Controller - Controlador REST para expor os endpoints da API.
-Service - Regras de Negócio.
+| Camada     | Objetivo                                                              |
+| ---------- | --------------------------------------------------------------------- | 
+| Entity     | Criação de entidade JPA para representar uma tabela em banco de dados |
+| Repository | JpaRepository para operações CRUD                                     | 
+| Controller | Controlador REST para expor os endpoints da API                       |
+| Service    | Regras de Negócio                                                     |
+
 
 Funcionalidades:
 private Cliente salvar(@RequestBody Cliente cliente){ - Salvar Cliente
