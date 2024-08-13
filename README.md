@@ -2,12 +2,18 @@
 API REST Cliente
 
 Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro de Cliente.
-Tecnologias:
-JAVA JDK 17
-Maven
-IDEA Intellij
-JPA (Java Persistence API)
-H2 Banco de Dados em memória.
+
+| Tecnologias                  |
+| -----------------------------| 
+| JAVA JDK 17                  |
+| Correção de bugs do projeto  | 
+| Maven                        |
+| IDEA Intellij                |
+| JPA (Java Persistence API)   |
+| H2 Banco de Dados em memória |
+
+
+
 
 Camadas Criadas:
 Entity - Criação de entidade JPA para representar uma tabela em banco de dados.
