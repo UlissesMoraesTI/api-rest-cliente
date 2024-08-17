@@ -2,6 +2,9 @@
 API REST Cliente
 
 Desenvolvimento de uma API REST em Java com objetivo de Manutenção em Cadastro de Cliente.
+- Java Spring
+- JPA
+- H2 
 
 | Tecnologias                  |
 | -----------------------------| 
